@@ -1,8 +1,9 @@
-package org.example;
+package aston.darya.homework;
+
 
 import java.util.Arrays;
 
-public class MyMainClass {
+public class Lesson2 {
 
     public static void main(String[] args) {
         printThreeWords();
@@ -244,3 +245,4 @@ public class MyMainClass {
     }
 
 }
+
