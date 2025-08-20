@@ -2,7 +2,6 @@ package aston.darya.homework.lesson3.task2;
 
 import aston.darya.homework.lesson3.task1.Product;
 import java.time.OffsetDateTime;
-import java.time.ZoneId;
 import java.time.ZoneOffset;
 
 public class Main {
