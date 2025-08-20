@@ -1,4 +1,4 @@
-package aston.darya.homework;
+package aston.darya.homework.lesson2;
 
 
 import java.util.Arrays;
