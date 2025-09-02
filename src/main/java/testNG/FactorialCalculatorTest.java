@@ -1,6 +1,6 @@
 package testNG;
 
-import aston.darya.homework.Lesson_7_junit_5.FactorialCalculator;
+import aston.darya.homework.Lesson_7_testng.FactorialCalculator;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;

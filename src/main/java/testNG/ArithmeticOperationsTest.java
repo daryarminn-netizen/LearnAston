@@ -1,6 +1,6 @@
 package testNG;
 
-import aston.darya.homework.Lesson_7_junit_5.ArithmeticOperations;
+import aston.darya.homework.Lesson_7_testng.ArithmeticOperations;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;

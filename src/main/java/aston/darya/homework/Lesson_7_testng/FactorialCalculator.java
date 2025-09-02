@@ -1,4 +1,4 @@
-package aston.darya.homework.Lesson_7_junit_5;
+package aston.darya.homework.Lesson_7_testng;
 
 public class FactorialCalculator {
 
